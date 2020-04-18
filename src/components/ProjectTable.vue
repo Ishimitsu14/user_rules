@@ -88,8 +88,9 @@
             'r-w-x': chmodHandler(projectUser.chmod)
           })
         })
+
         return details
-      },
+      }
     }
   }
 </script>
